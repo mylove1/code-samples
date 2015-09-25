@@ -1,0 +1,6 @@
+scrapy
+
+pymysql
+pony
+
+beautifulsoup4
